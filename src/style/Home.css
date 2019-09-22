@@ -1,0 +1,86 @@
+.home_container{
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.home_el_header{
+  height: 30px;
+  background-color:  #20a0ff;
+  color: #fff;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.el-aside{
+  width: 100px;
+  background-color: #ECECEC;
+}
+.el-main {
+  background-color: rgba(255, 121, 217, 0.03);
+  color: #000;
+}
+.home_title {
+  color: #fff;
+  font-size: 22px;
+  display: inline;
+}
+.home_userinfoContainer {
+  display: inline;
+  margin-right: 20px;
+  color: #ffffff;
+  display: inline;
+}
+.home_el_header-main{
+  height: 20px;
+  background-color: #d5efef;
+  text-align: center;
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+}
+.home_span_1{
+  font-size: 22px;
+  display: inline;
+}
+.home_el_table{
+  width: 100%;
+  height: 90%;
+  background-color: rgba(215, 132, 236, 0.08);
+  top: 0;
+  left: 0;
+  text-align: center;
+  color: black;
+}
+.home_el_pagination{
+text-align: center;
+}
+.home_el_menu{
+  background-color: #ECECEC;
+}
+.input-with-search{
+  width: 220px;
+}
+.dialogVisible1-el-input-textarea{
+  width: 400px;
+}
+.home_el_dialog_1{
+  text-align: center;
+
+}
+.home_el_dialog_1 div{
+
+}
+.home_el_dialog_1_table{
+ text-align: center;
+  margin-left: 20px;
+}
+.home_el_dialog_1_time-set{
+  margin-top: 10px;
+}
+.home_el_dialog_1_dialog-footer{
+ margin-top: 30px;
+  text-align: right;
+}
