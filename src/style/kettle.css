@@ -1,0 +1,21 @@
+.kettle-databasetype-diagvisible-top{
+
+}
+.kettle-databasetype-diagvisible-top .el-dialog__header{
+  background-color: #ECECEC;
+}
+.kettle-databasetype-diagvisible-top .el-dialog__body{
+  background-color: rgba(142, 163, 159, 0.43);
+
+}
+
+.kettle-rep-div-replist .el-table{
+  width: 1000px;
+  background-color: antiquewhite;
+  color: #20a0ff;
+}
+.kettle-rep-div-replist .el-table th{
+  background-color: #a0a39a;
+  color: #ffde63;
+}
+

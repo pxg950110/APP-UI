@@ -1,0 +1,38 @@
+.systemdict-top{
+  width: 100%;
+  height: 100%;
+}
+.systemdict-top .el-tabs{
+
+}
+.el-role-info-i{
+  background-color: aqua;
+}
+.el-icon-user{
+  color: #20a0ff;
+}
+.el-tabs__nav-wrap is-top{
+  background-color: aqua;
+}
+.el-tabs__nav is-top{
+  background-color: #20a0ff;
+}
+.infinite-list-item{
+  margin-top: 10px;
+  background-color: #f9fff6;
+  height: 50px;
+  overflow:auto;
+  font-family: "Essays 1743", "Linux Libertine", Palatino, "Palatino Linotype", "Book Antiqua", Georgia, "Times New Roman", serif;
+  font-size: 24px;
+  width: 90%;
+  color: #415344;
+}
+.el-role-info-rolename{
+  margin-left: 20px;
+}
+.el-role-info-note{
+  margin-left: 30px;
+  text-align: right;
+  position: fixed;
+  right: 10%;
+}

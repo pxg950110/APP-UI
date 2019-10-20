@@ -9,6 +9,9 @@ import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
 import axios from 'axios'
 import echarts from 'echarts'
+import './icon/el-icon-log/iconfont.css'
+// import iview from 'iview'
+// Vue.use(iview)
 Vue.use(ElementUI)
 Vue.prototype.$echarts = echarts
 Vue.prototype.$ajax = axios
